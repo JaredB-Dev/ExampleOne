@@ -14,5 +14,6 @@ public enum Constants {
 		// Dimension is a mutable class, copy to prevent mutation.
 		return new Dimension(SIZE);
 		System.out.println("Game size: 100");
+		System.out.println("Hello World")
 	}
 }
